@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "6a6c",
+      "username": "nutt@gmail.com",
+      "password": "123"
+    }
+  ],
+  "crimes": [
+    {
+      "id": "5456",
+      "CriminalName": "Thanga Balaji",
+      "Details": "specs",
+      "CriminalStatus": "Arrested"
+    }
+  ]
+}
